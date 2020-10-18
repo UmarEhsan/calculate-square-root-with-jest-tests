@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render correctly text component 1`] = `
+<div
+  style={
+    Object {
+      "display": "inline",
+    }
+  }
+>
+  <input
+    className="form-control"
+    name="square-root"
+    onChange={[Function]}
+    type="number"
+    value="0"
+  />
+</div>
+`;
